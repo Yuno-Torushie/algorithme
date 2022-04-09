@@ -1,0 +1,7 @@
+
+	<!ELEMENT document (title?)>
+	<!ELEMENT title (#PCDATA)>
+	<!ATTLIST title
+			num CDATA #REQUIRED
+			info CDATA #IMPLIED
+	>

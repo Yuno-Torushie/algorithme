@@ -1,0 +1,4 @@
+ 
+	<!ELEMENT document (#PCDATA | title | publisher)*> 
+	<!ELEMENT title (#PCDATA)> 
+	<!ELEMENT publisher (#PCDATA)>

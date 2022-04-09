@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Princess.java&apos; to &apos;DonjonV3&apos;&#x0D;&#x0A;- Original project: &apos;DonjonV2&apos;&#x0D;&#x0A;- Destination element: &apos;DonjonV3&apos;&#x0D;&#x0A;- Original element: &apos;Model.Princess.java&apos;" description="Copy compilation unit" element1="/src&lt;Model{Princess.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648981707993" target="/DonjonV3" units="1" version="1.0"/>
+</session>

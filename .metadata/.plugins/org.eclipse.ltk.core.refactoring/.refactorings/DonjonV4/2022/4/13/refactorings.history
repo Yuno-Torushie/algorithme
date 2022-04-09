@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;DonjonV4&apos;&#x0D;&#x0A;- Original project: &apos;DonjonV4&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Model.Chest.java&#x0D;&#x0A;     Model.Equipment.java&#x0D;&#x0A;     Model.Key.java&#x0D;&#x0A;     Model.Monster.java&#x0D;&#x0A;     Model.Weapon.java" description="Delete elements" element1="/src&lt;Model{Monster.java" element2="/src&lt;Model{Chest.java" element3="/src&lt;Model{Weapon.java" element4="/src&lt;Model{Equipment.java" element5="/src&lt;Model{Key.java" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1648981768314" subPackages="false" version="1.0"/>
+</session>

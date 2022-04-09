@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\Documents\Cours\DUT-info\algo\TROUSSIER_PAMANTUNG_Ptut_Interface.zip"/>
+			<item value="D:\Documents\Cours\DUT-info\algo\TROUSSIER_PAMANTUNG_Ptut.zip"/>
+			<item value="D:\Documents\Cours\DUT info\AlgoAv\TROUSSIER_ARTHUR_2.zip"/>
+			<item value="D:\Documents\Cours\DUT info\AlgoAv\TROUSSIER_ARTHUR.zip"/>
+			<item value="D:\Documents\Cours\DUT info\algo\TROUSSIER_ARTHUR.zip"/>
+			<item value="D:\Documents\Cours\DUT info\algo\TP4.zip"/>
+			<item value="D:\Documents\Cours\DUT info\algo\TP3.zip"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-683"/>
+		<item key="DIALOG_Y_ORIGIN" value="-182"/>
+		<item key="DIALOG_WIDTH" value="1920"/>
+		<item key="DIALOG_HEIGHT" value="1030"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Téléchargements\PTUT4"/>
+			<item value="D:\Téléchargements\2122-info2-M4102C-TP RMI PFC"/>
+			<item value="D:\Téléchargements\Projet Test Dunjon RPG"/>
+			<item value="D:\Documents\Cours\DUT-info\algo\Algorithme fin\DungeonV2"/>
+			<item value="D:\Documents\Cours\DUT-info\algo\Algorithme fin\Dungeon"/>
+			<item value="D:\Documents\Cours\DUT info\XML\Jeu_nombreMystere"/>
+			<item value="D:\Téléchargements\Jeu_nombreMystere"/>
+			<item value="D:\Documents\Cours\DUT info\algo\Projet Test Dunjon RPG - starter"/>
+			<item value="D:\Documents\Cours\DUT info\algo\Projet Donjon"/>
+			<item value="D:\Documents\Cours\DUT info\algo\Zombie-Dice-JavaFX-master\ressources"/>
+			<item value="D:\Documents\Cours\DUT info\algo\Zombie-Dice-JavaFX-master\src"/>
+			<item value="D:\Téléchargements\__MACOSX"/>
+			<item value="D:\Téléchargements\TP-Graphes"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Téléchargements\Projet_Dunjon_RPG.zip"/>
+			<item value="D:\Téléchargements\TD_Refactoring_V2.zip"/>
+			<item value="D:\Téléchargements\etudeMap_eclipse.zip"/>
+			<item value="D:\Documents\Cours\DUT info\XML\JSON_TD5_corr.zip"/>
+			<item value="D:\Documents\Cours\DUT info\algo\Jeu_nombreMystere.zip"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+</section>

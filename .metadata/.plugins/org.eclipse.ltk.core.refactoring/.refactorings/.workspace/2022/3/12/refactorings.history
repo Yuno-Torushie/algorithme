@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 18 resources" deleteContents="true" description="Delete 18 resources" element1="/Design Patterns exercices" element10="/TDGuitar" element11="/TDGuitar-code-to-complete" element12="/Tdm-DP-small-exercices" element13="/Tdm-SOLID-good-version" element14="/Tdm-SOLID-small-exercice" element15="/TD Observer" element16="/TD Refactoring" element17="/ThreadJava" element18="/Tree" element2="/etudeMap" element3="/Exam" element4="/Exam-Correction" element5="/Jagenda" element6="/myfirsttreeJava" element7="/optimisateurChainesProduction.zip_expanded" element8="/OptimisateurChainesProduction" element9="/Simulateur-Canards" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="18" stamp="1647941959058"/>
+</session>

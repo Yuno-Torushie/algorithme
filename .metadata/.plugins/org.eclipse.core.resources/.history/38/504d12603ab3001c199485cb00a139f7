@@ -1,0 +1,45 @@
+package Util;
+
+public class Screen {
+	
+	public void welcomeMessage() {
+        Console.affiche("Bienvenue dans le Donjon");
+        //Console.affiche("Votre but est de sauvé la fameuse et magnifique Princesse Yuno qui à été emprisonée par le terrible méchant et diabolique Torushie.\n");
+        Console.affiche("Votre but vous échapper du Donjon en résolvant les fameuse tables de mathématqiues");
+	}
+		  
+	public void goodEnding() {
+        //Console.afficheln("Félicitations ! Vous avez Libérés la princesse.\nVous pouvez désaprésent en faire ce que vous voulez.");
+        Console.affiche("Félicitations ! Vous avez réussi à vous échapper du Donjon, Vous êtes maintenant Turbo-Fort dans les tables de Mathématiques");
+		Console.afficheln("FIN !");
+    }
+	
+	public void badEnding() {
+        Console.afficheln("Game Over ! Vous êtes un vrai cancre.");
+    }
+	
+	public void choix() {
+        Console.info("\nQue choisissez-vous de faire ?");
+	}
+	
+	public void goNorth() {
+        Console.info("(N) Pour aller au NORD");
+	}
+	
+	public void goSouth() {
+        Console.info("(S) Pour aller au SUD");
+	}
+	
+	public void goWest() {
+        Console.info("(O) Pour aller à l'OUEST");
+	}
+	
+	public void goEast() {
+        Console.info("(E) Pour aller à l'EST");
+	}
+	
+	public void free() {
+        Console.info("(L) Pour libéré la Princesse.");
+	}
+
+}

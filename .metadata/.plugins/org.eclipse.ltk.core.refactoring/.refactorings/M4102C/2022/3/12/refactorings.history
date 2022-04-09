@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;M4102C/src/versions.v1&apos;&#x0D;&#x0A;- Original project: &apos;M4102C&apos;&#x0D;&#x0A;- Destination element: &apos;M4102C/src/versions.v1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     versions.v3.PlayerDispenser.java&#x0D;&#x0A;     versions.v3.PlayerDispenserImp.java" description="Copy compilation units" destination="/src&lt;versions.v1" element1="/src&lt;versions.v3{PlayerDispenser.java" element2="/src&lt;versions.v3{PlayerDispenserImp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648025058203" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,19 @@
+
+
+//                System.setSecurityManager(new RMISecurityManager());
+
+
+                    // instanciation d'un objet serveur
+                    Player player = new PlayerImp(null);
+
+                    // 5. publication auprès d'un service de nommage
+                    System.out.println(InetAddress.getLocalHost().getHostAddress());
+                    Naming.rebind("rmi://localhost/PFC", player);
+                    System.out.println("player enregistré");
+
+//                    Naming.unbind("rmi://localhost/PFC");
+//                    System.out.println("Player désenregistré");
+                }
+
+
+}
